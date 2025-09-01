@@ -2,4 +2,5 @@
 This is being edited in remote repo
 New line is added
 Another line is added
-i'm going to merge this with main branch
+i'm going to merge this with main branch --- 100
+ 
